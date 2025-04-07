@@ -6,7 +6,7 @@
 
 - **Languages** : Typescript, PHP, Python, SQL
 
-- **Frameworks & Libraries** : Nest.JS • Node.JS • Laravel
+- **Frameworks & Libraries** : Nest.JS • Node.JS • Laravel • LangChain
 
 - **Other** : Git • Docker • AWS
 
