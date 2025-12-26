@@ -21,8 +21,11 @@ I'm a passionate developer focused on building high-quality, scalable software a
 ### 🛠️ Tech Stack
 
 - **Languages:** TypeScript • PHP • Python • SQL
-- **Frameworks & Libraries:** NestJS • Node.js • Laravel
-- **Tools & Platforms:** Git • Docker • AWS • Linux
+- **Backend:** REST API • RBAC • Multi-tenant / Data Isolation • Auth
+- **AI:** RAG • LangChain • LangGraph
+- **Frameworks:** NestJS • Hono • Laravel • Yii2 • WordPress
+- **Cloud & DevOps:** AWS • Docker • SST • Terraform
+- **Database:** PostgreSQL • MySQL • Redis • MongoDB
 
 ---
 
